@@ -1,14 +1,14 @@
-import { useState } from 'react'
-import Produtos from './components/produtos'
+import { useState } from "react";
+import Routers from "./components/routers";
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [count, setCount] = useState(0);
 
   return (
     <>
-      <Produtos/>
+      <Routers />
     </>
-  )
+  );
 }
 
-export default App
+export default App;

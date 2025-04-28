@@ -28,7 +28,7 @@
 .produto img {
   width: 12rem;
   height: auto;
-  object-fit: contain;
+  object-fit: contain;  
   margin-bottom: 1rem;
 }
 
