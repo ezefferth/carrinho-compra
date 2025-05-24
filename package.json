@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
     "@mui/material": "^7.1.0",
@@ -19,6 +20,11 @@
     "react-icons": "^5.5.0",
     "react-router": "^7.5.3",
     "react-router-dom": "^7.6.0"
+=======
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router": "^7.5.3"
+>>>>>>> e55a8a880a6910d2412986dfb3946a826b94e131
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
