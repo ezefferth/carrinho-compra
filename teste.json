@@ -1,0 +1,842 @@
+[
+  {
+    "id": 3856776364,
+    "idLancamento": 954510393,
+    "ano": 2025,
+    "idCredito": 154403,
+    "descricaoCredito": "IPTU",
+    "abreviaturaCredito": "IPT1",
+    "tipoCadastro": {
+      "valor": "IMOVEIS",
+      "descricao": "Imóveis"
+    },
+    "dhCancelamento": null,
+    "usuarioCancelamento": null,
+    "nroParcela": 1,
+    "idContribuinte": 70432295,
+    "idImovel": 25318451,
+    "idEconomico": null,
+    "idReceitaDiversa": null,
+    "idContribuicao": null,
+    "idNotaAvulsa": null,
+    "idObra": null,
+    "idTransferenciaImoveis": null,
+    "idIndexador": 44703,
+    "siglaIndexador": "R$",
+    "tipoIndexador": {
+      "valor": "MOEDA_DO_PAIS",
+      "descricao": "Moeda do País"
+    },
+    "idConfigParcelamento": 823413,
+    "descricaoParcelamento": "Parcelado",
+    "qtdParcelas": 10,
+    "situacao": {
+      "valor": "ABERTO",
+      "descricao": "Em Aberto"
+    },
+    "situacaoResumida": "Aberta",
+    "vlLancado": 2774.88,
+    "vlDesconto": 0.0,
+    "vlBeneficio": 0.0,
+    "vlIndexador": 1.0,
+    "vlBeneficioIndexado": 0,
+    "vlPagoCorrecao": 0,
+    "vlPagoJuro": 0,
+    "vlPagoMulta": 0,
+    "vlPagoTributo": 0,
+    "siglaBancoPagamento": null,
+    "vlDiferencaPagamento": 0,
+    "dtQuitacao": null,
+    "vlTotalParcelaSemAcrescimos": 2774.88,
+    "dtVencimento": "2025-02-25",
+    "unica": {
+      "valor": "NAO",
+      "descricao": "Não"
+    },
+    "porDiferenca": null,
+    "idDebitoOriginal": null,
+    "complementar": {
+      "valor": "NAO",
+      "descricao": "Não"
+    },
+    "sistemaOrigem": {
+      "valor": "TRIBUTOS",
+      "descricao": "Tributos"
+    },
+    "referente": {
+      "identificador": "146",
+      "codigo": "146",
+      "tipoDescricao": "Imóveis",
+      "descricao": "Imóvel 146",
+      "tipo": {
+        "valor": "IMOVEIS",
+        "descricao": "Imóveis"
+      }
+    },
+    "competencia": null,
+    "dhLancamento": "2024-12-12T16:18:01.82",
+    "dtCredito": "2024-12-12",
+    "codigoAutoInfracao": null,
+    "idAutoInfracao": null,
+    "nroDas": null,
+    "nroDaf": null,
+    "dhOperacao": "2025-03-27T17:35:14.654",
+    "cpfCnpj": "28163703000150"
+  },
+  {
+    "id": 3856776365,
+    "idLancamento": 954510393,
+    "ano": 2025,
+    "idCredito": 154403,
+    "descricaoCredito": "IPTU",
+    "abreviaturaCredito": "IPT1",
+    "tipoCadastro": {
+      "valor": "IMOVEIS",
+      "descricao": "Imóveis"
+    },
+    "dhCancelamento": null,
+    "usuarioCancelamento": null,
+    "nroParcela": 2,
+    "idContribuinte": 70432295,
+    "idImovel": 25318451,
+    "idEconomico": null,
+    "idReceitaDiversa": null,
+    "idContribuicao": null,
+    "idNotaAvulsa": null,
+    "idObra": null,
+    "idTransferenciaImoveis": null,
+    "idIndexador": 44703,
+    "siglaIndexador": "R$",
+    "tipoIndexador": {
+      "valor": "MOEDA_DO_PAIS",
+      "descricao": "Moeda do País"
+    },
+    "idConfigParcelamento": 823413,
+    "descricaoParcelamento": "Parcelado",
+    "qtdParcelas": 10,
+    "situacao": {
+      "valor": "ABERTO",
+      "descricao": "Em Aberto"
+    },
+    "situacaoResumida": "Aberta",
+    "vlLancado": 2774.9,
+    "vlDesconto": 0.0,
+    "vlBeneficio": 0.0,
+    "vlIndexador": 1.0,
+    "vlBeneficioIndexado": 0,
+    "vlPagoCorrecao": 0,
+    "vlPagoJuro": 0,
+    "vlPagoMulta": 0,
+    "vlPagoTributo": 0,
+    "siglaBancoPagamento": null,
+    "vlDiferencaPagamento": 0,
+    "dtQuitacao": null,
+    "vlTotalParcelaSemAcrescimos": 2774.9,
+    "dtVencimento": "2025-03-10",
+    "unica": {
+      "valor": "NAO",
+      "descricao": "Não"
+    },
+    "porDiferenca": null,
+    "idDebitoOriginal": null,
+    "complementar": {
+      "valor": "NAO",
+      "descricao": "Não"
+    },
+    "sistemaOrigem": {
+      "valor": "TRIBUTOS",
+      "descricao": "Tributos"
+    },
+    "referente": {
+      "identificador": "146",
+      "codigo": "146",
+      "tipoDescricao": "Imóveis",
+      "descricao": "Imóvel 146",
+      "tipo": {
+        "valor": "IMOVEIS",
+        "descricao": "Imóveis"
+      }
+    },
+    "competencia": null,
+    "dhLancamento": "2024-12-12T16:18:01.82",
+    "dtCredito": "2024-12-12",
+    "codigoAutoInfracao": null,
+    "idAutoInfracao": null,
+    "nroDas": null,
+    "nroDaf": null,
+    "dhOperacao": "2025-03-27T17:35:14.823",
+    "cpfCnpj": "28163703000150"
+  },
+  {
+    "id": 3856776366,
+    "idLancamento": 954510393,
+    "ano": 2025,
+    "idCredito": 154403,
+    "descricaoCredito": "IPTU",
+    "abreviaturaCredito": "IPT1",
+    "tipoCadastro": {
+      "valor": "IMOVEIS",
+      "descricao": "Imóveis"
+    },
+    "dhCancelamento": null,
+    "usuarioCancelamento": null,
+    "nroParcela": 3,
+    "idContribuinte": 70432295,
+    "idImovel": 25318451,
+    "idEconomico": null,
+    "idReceitaDiversa": null,
+    "idContribuicao": null,
+    "idNotaAvulsa": null,
+    "idObra": null,
+    "idTransferenciaImoveis": null,
+    "idIndexador": 44703,
+    "siglaIndexador": "R$",
+    "tipoIndexador": {
+      "valor": "MOEDA_DO_PAIS",
+      "descricao": "Moeda do País"
+    },
+    "idConfigParcelamento": 823413,
+    "descricaoParcelamento": "Parcelado",
+    "qtdParcelas": 10,
+    "situacao": {
+      "valor": "ABERTO",
+      "descricao": "Em Aberto"
+    },
+    "situacaoResumida": "Aberta",
+    "vlLancado": 2774.9,
+    "vlDesconto": 0.0,
+    "vlBeneficio": 0.0,
+    "vlIndexador": 1.0,
+    "vlBeneficioIndexado": 0,
+    "vlPagoCorrecao": 0,
+    "vlPagoJuro": 0,
+    "vlPagoMulta": 0,
+    "vlPagoTributo": 0,
+    "siglaBancoPagamento": null,
+    "vlDiferencaPagamento": 0,
+    "dtQuitacao": null,
+    "vlTotalParcelaSemAcrescimos": 2774.9,
+    "dtVencimento": "2025-04-10",
+    "unica": {
+      "valor": "NAO",
+      "descricao": "Não"
+    },
+    "porDiferenca": null,
+    "idDebitoOriginal": null,
+    "complementar": {
+      "valor": "NAO",
+      "descricao": "Não"
+    },
+    "sistemaOrigem": {
+      "valor": "TRIBUTOS",
+      "descricao": "Tributos"
+    },
+    "referente": {
+      "identificador": "146",
+      "codigo": "146",
+      "tipoDescricao": "Imóveis",
+      "descricao": "Imóvel 146",
+      "tipo": {
+        "valor": "IMOVEIS",
+        "descricao": "Imóveis"
+      }
+    },
+    "competencia": null,
+    "dhLancamento": "2024-12-12T16:18:01.82",
+    "dtCredito": "2024-12-12",
+    "codigoAutoInfracao": null,
+    "idAutoInfracao": null,
+    "nroDas": null,
+    "nroDaf": null,
+    "dhOperacao": "2025-03-27T17:35:14.976",
+    "cpfCnpj": "28163703000150"
+  },
+  {
+    "id": 3856776367,
+    "idLancamento": 954510393,
+    "ano": 2025,
+    "idCredito": 154403,
+    "descricaoCredito": "IPTU",
+    "abreviaturaCredito": "IPT1",
+    "tipoCadastro": {
+      "valor": "IMOVEIS",
+      "descricao": "Imóveis"
+    },
+    "dhCancelamento": null,
+    "usuarioCancelamento": null,
+    "nroParcela": 4,
+    "idContribuinte": 70432295,
+    "idImovel": 25318451,
+    "idEconomico": null,
+    "idReceitaDiversa": null,
+    "idContribuicao": null,
+    "idNotaAvulsa": null,
+    "idObra": null,
+    "idTransferenciaImoveis": null,
+    "idIndexador": 44703,
+    "siglaIndexador": "R$",
+    "tipoIndexador": {
+      "valor": "MOEDA_DO_PAIS",
+      "descricao": "Moeda do País"
+    },
+    "idConfigParcelamento": 823413,
+    "descricaoParcelamento": "Parcelado",
+    "qtdParcelas": 10,
+    "situacao": {
+      "valor": "ABERTO",
+      "descricao": "Em Aberto"
+    },
+    "situacaoResumida": "Aberta",
+    "vlLancado": 2774.9,
+    "vlDesconto": 0.0,
+    "vlBeneficio": 0.0,
+    "vlIndexador": 1.0,
+    "vlBeneficioIndexado": 0,
+    "vlPagoCorrecao": 0,
+    "vlPagoJuro": 0,
+    "vlPagoMulta": 0,
+    "vlPagoTributo": 0,
+    "siglaBancoPagamento": null,
+    "vlDiferencaPagamento": 0,
+    "dtQuitacao": null,
+    "vlTotalParcelaSemAcrescimos": 2774.9,
+    "dtVencimento": "2025-05-12",
+    "unica": {
+      "valor": "NAO",
+      "descricao": "Não"
+    },
+    "porDiferenca": null,
+    "idDebitoOriginal": null,
+    "complementar": {
+      "valor": "NAO",
+      "descricao": "Não"
+    },
+    "sistemaOrigem": {
+      "valor": "TRIBUTOS",
+      "descricao": "Tributos"
+    },
+    "referente": {
+      "identificador": "146",
+      "codigo": "146",
+      "tipoDescricao": "Imóveis",
+      "descricao": "Imóvel 146",
+      "tipo": {
+        "valor": "IMOVEIS",
+        "descricao": "Imóveis"
+      }
+    },
+    "competencia": null,
+    "dhLancamento": "2024-12-12T16:18:01.82",
+    "dtCredito": "2024-12-12",
+    "codigoAutoInfracao": null,
+    "idAutoInfracao": null,
+    "nroDas": null,
+    "nroDaf": null,
+    "dhOperacao": "2025-03-27T17:35:15.112",
+    "cpfCnpj": "28163703000150"
+  },
+  {
+    "id": 3856776368,
+    "idLancamento": 954510393,
+    "ano": 2025,
+    "idCredito": 154403,
+    "descricaoCredito": "IPTU",
+    "abreviaturaCredito": "IPT1",
+    "tipoCadastro": {
+      "valor": "IMOVEIS",
+      "descricao": "Imóveis"
+    },
+    "dhCancelamento": null,
+    "usuarioCancelamento": null,
+    "nroParcela": 5,
+    "idContribuinte": 70432295,
+    "idImovel": 25318451,
+    "idEconomico": null,
+    "idReceitaDiversa": null,
+    "idContribuicao": null,
+    "idNotaAvulsa": null,
+    "idObra": null,
+    "idTransferenciaImoveis": null,
+    "idIndexador": 44703,
+    "siglaIndexador": "R$",
+    "tipoIndexador": {
+      "valor": "MOEDA_DO_PAIS",
+      "descricao": "Moeda do País"
+    },
+    "idConfigParcelamento": 823413,
+    "descricaoParcelamento": "Parcelado",
+    "qtdParcelas": 10,
+    "situacao": {
+      "valor": "ABERTO",
+      "descricao": "Em Aberto"
+    },
+    "situacaoResumida": "Aberta",
+    "vlLancado": 2774.9,
+    "vlDesconto": 0.0,
+    "vlBeneficio": 0.0,
+    "vlIndexador": 1.0,
+    "vlBeneficioIndexado": 0,
+    "vlPagoCorrecao": 0,
+    "vlPagoJuro": 0,
+    "vlPagoMulta": 0,
+    "vlPagoTributo": 0,
+    "siglaBancoPagamento": null,
+    "vlDiferencaPagamento": 0,
+    "dtQuitacao": null,
+    "vlTotalParcelaSemAcrescimos": 2774.9,
+    "dtVencimento": "2025-06-10",
+    "unica": {
+      "valor": "NAO",
+      "descricao": "Não"
+    },
+    "porDiferenca": null,
+    "idDebitoOriginal": null,
+    "complementar": {
+      "valor": "NAO",
+      "descricao": "Não"
+    },
+    "sistemaOrigem": {
+      "valor": "TRIBUTOS",
+      "descricao": "Tributos"
+    },
+    "referente": {
+      "identificador": "146",
+      "codigo": "146",
+      "tipoDescricao": "Imóveis",
+      "descricao": "Imóvel 146",
+      "tipo": {
+        "valor": "IMOVEIS",
+        "descricao": "Imóveis"
+      }
+    },
+    "competencia": null,
+    "dhLancamento": "2024-12-12T16:18:01.82",
+    "dtCredito": "2024-12-12",
+    "codigoAutoInfracao": null,
+    "idAutoInfracao": null,
+    "nroDas": null,
+    "nroDaf": null,
+    "dhOperacao": "2025-03-27T17:35:15.218",
+    "cpfCnpj": "28163703000150"
+  },
+  {
+    "id": 3856777689,
+    "idLancamento": 954510393,
+    "ano": 2025,
+    "idCredito": 154403,
+    "descricaoCredito": "IPTU",
+    "abreviaturaCredito": "IPT1",
+    "tipoCadastro": {
+      "valor": "IMOVEIS",
+      "descricao": "Imóveis"
+    },
+    "dhCancelamento": null,
+    "usuarioCancelamento": null,
+    "nroParcela": 6,
+    "idContribuinte": 70432295,
+    "idImovel": 25318451,
+    "idEconomico": null,
+    "idReceitaDiversa": null,
+    "idContribuicao": null,
+    "idNotaAvulsa": null,
+    "idObra": null,
+    "idTransferenciaImoveis": null,
+    "idIndexador": 44703,
+    "siglaIndexador": "R$",
+    "tipoIndexador": {
+      "valor": "MOEDA_DO_PAIS",
+      "descricao": "Moeda do País"
+    },
+    "idConfigParcelamento": 823413,
+    "descricaoParcelamento": "Parcelado",
+    "qtdParcelas": 10,
+    "situacao": {
+      "valor": "ABERTO",
+      "descricao": "Em Aberto"
+    },
+    "situacaoResumida": "Aberta",
+    "vlLancado": 2774.9,
+    "vlDesconto": 0.0,
+    "vlBeneficio": 0.0,
+    "vlIndexador": 1.0,
+    "vlBeneficioIndexado": 0,
+    "vlPagoCorrecao": 0,
+    "vlPagoJuro": 0,
+    "vlPagoMulta": 0,
+    "vlPagoTributo": 0,
+    "siglaBancoPagamento": null,
+    "vlDiferencaPagamento": 0,
+    "dtQuitacao": null,
+    "vlTotalParcelaSemAcrescimos": 2774.9,
+    "dtVencimento": "2025-07-10",
+    "unica": {
+      "valor": "NAO",
+      "descricao": "Não"
+    },
+    "porDiferenca": null,
+    "idDebitoOriginal": null,
+    "complementar": {
+      "valor": "NAO",
+      "descricao": "Não"
+    },
+    "sistemaOrigem": {
+      "valor": "TRIBUTOS",
+      "descricao": "Tributos"
+    },
+    "referente": {
+      "identificador": "146",
+      "codigo": "146",
+      "tipoDescricao": "Imóveis",
+      "descricao": "Imóvel 146",
+      "tipo": {
+        "valor": "IMOVEIS",
+        "descricao": "Imóveis"
+      }
+    },
+    "competencia": null,
+    "dhLancamento": "2024-12-12T16:18:01.82",
+    "dtCredito": "2024-12-12",
+    "codigoAutoInfracao": null,
+    "idAutoInfracao": null,
+    "nroDas": null,
+    "nroDaf": null,
+    "dhOperacao": "2025-03-27T17:35:15.319",
+    "cpfCnpj": "28163703000150"
+  },
+  {
+    "id": 3856777690,
+    "idLancamento": 954510393,
+    "ano": 2025,
+    "idCredito": 154403,
+    "descricaoCredito": "IPTU",
+    "abreviaturaCredito": "IPT1",
+    "tipoCadastro": {
+      "valor": "IMOVEIS",
+      "descricao": "Imóveis"
+    },
+    "dhCancelamento": null,
+    "usuarioCancelamento": null,
+    "nroParcela": 7,
+    "idContribuinte": 70432295,
+    "idImovel": 25318451,
+    "idEconomico": null,
+    "idReceitaDiversa": null,
+    "idContribuicao": null,
+    "idNotaAvulsa": null,
+    "idObra": null,
+    "idTransferenciaImoveis": null,
+    "idIndexador": 44703,
+    "siglaIndexador": "R$",
+    "tipoIndexador": {
+      "valor": "MOEDA_DO_PAIS",
+      "descricao": "Moeda do País"
+    },
+    "idConfigParcelamento": 823413,
+    "descricaoParcelamento": "Parcelado",
+    "qtdParcelas": 10,
+    "situacao": {
+      "valor": "ABERTO",
+      "descricao": "Em Aberto"
+    },
+    "situacaoResumida": "Aberta",
+    "vlLancado": 2774.9,
+    "vlDesconto": 0.0,
+    "vlBeneficio": 0.0,
+    "vlIndexador": 1.0,
+    "vlBeneficioIndexado": 0,
+    "vlPagoCorrecao": 0,
+    "vlPagoJuro": 0,
+    "vlPagoMulta": 0,
+    "vlPagoTributo": 0,
+    "siglaBancoPagamento": null,
+    "vlDiferencaPagamento": 0,
+    "dtQuitacao": null,
+    "vlTotalParcelaSemAcrescimos": 2774.9,
+    "dtVencimento": "2025-08-11",
+    "unica": {
+      "valor": "NAO",
+      "descricao": "Não"
+    },
+    "porDiferenca": null,
+    "idDebitoOriginal": null,
+    "complementar": {
+      "valor": "NAO",
+      "descricao": "Não"
+    },
+    "sistemaOrigem": {
+      "valor": "TRIBUTOS",
+      "descricao": "Tributos"
+    },
+    "referente": {
+      "identificador": "146",
+      "codigo": "146",
+      "tipoDescricao": "Imóveis",
+      "descricao": "Imóvel 146",
+      "tipo": {
+        "valor": "IMOVEIS",
+        "descricao": "Imóveis"
+      }
+    },
+    "competencia": null,
+    "dhLancamento": "2024-12-12T16:18:01.82",
+    "dtCredito": "2024-12-12",
+    "codigoAutoInfracao": null,
+    "idAutoInfracao": null,
+    "nroDas": null,
+    "nroDaf": null,
+    "dhOperacao": "2025-03-27T17:35:16.813",
+    "cpfCnpj": "28163703000150"
+  },
+  {
+    "id": 3856777691,
+    "idLancamento": 954510393,
+    "ano": 2025,
+    "idCredito": 154403,
+    "descricaoCredito": "IPTU",
+    "abreviaturaCredito": "IPT1",
+    "tipoCadastro": {
+      "valor": "IMOVEIS",
+      "descricao": "Imóveis"
+    },
+    "dhCancelamento": null,
+    "usuarioCancelamento": null,
+    "nroParcela": 8,
+    "idContribuinte": 70432295,
+    "idImovel": 25318451,
+    "idEconomico": null,
+    "idReceitaDiversa": null,
+    "idContribuicao": null,
+    "idNotaAvulsa": null,
+    "idObra": null,
+    "idTransferenciaImoveis": null,
+    "idIndexador": 44703,
+    "siglaIndexador": "R$",
+    "tipoIndexador": {
+      "valor": "MOEDA_DO_PAIS",
+      "descricao": "Moeda do País"
+    },
+    "idConfigParcelamento": 823413,
+    "descricaoParcelamento": "Parcelado",
+    "qtdParcelas": 10,
+    "situacao": {
+      "valor": "ABERTO",
+      "descricao": "Em Aberto"
+    },
+    "situacaoResumida": "Aberta",
+    "vlLancado": 2774.9,
+    "vlDesconto": 0.0,
+    "vlBeneficio": 0.0,
+    "vlIndexador": 1.0,
+    "vlBeneficioIndexado": 0,
+    "vlPagoCorrecao": 0,
+    "vlPagoJuro": 0,
+    "vlPagoMulta": 0,
+    "vlPagoTributo": 0,
+    "siglaBancoPagamento": null,
+    "vlDiferencaPagamento": 0,
+    "dtQuitacao": null,
+    "vlTotalParcelaSemAcrescimos": 2774.9,
+    "dtVencimento": "2025-09-10",
+    "unica": {
+      "valor": "NAO",
+      "descricao": "Não"
+    },
+    "porDiferenca": null,
+    "idDebitoOriginal": null,
+    "complementar": {
+      "valor": "NAO",
+      "descricao": "Não"
+    },
+    "sistemaOrigem": {
+      "valor": "TRIBUTOS",
+      "descricao": "Tributos"
+    },
+    "referente": {
+      "identificador": "146",
+      "codigo": "146",
+      "tipoDescricao": "Imóveis",
+      "descricao": "Imóvel 146",
+      "tipo": {
+        "valor": "IMOVEIS",
+        "descricao": "Imóveis"
+      }
+    },
+    "competencia": null,
+    "dhLancamento": "2024-12-12T16:18:01.82",
+    "dtCredito": "2024-12-12",
+    "codigoAutoInfracao": null,
+    "idAutoInfracao": null,
+    "nroDas": null,
+    "nroDaf": null,
+    "dhOperacao": "2025-03-27T17:35:16.923",
+    "cpfCnpj": "28163703000150"
+  },
+  {
+    "id": 3856777692,
+    "idLancamento": 954510393,
+    "ano": 2025,
+    "idCredito": 154403,
+    "descricaoCredito": "IPTU",
+    "abreviaturaCredito": "IPT1",
+    "tipoCadastro": {
+      "valor": "IMOVEIS",
+      "descricao": "Imóveis"
+    },
+    "dhCancelamento": null,
+    "usuarioCancelamento": null,
+    "nroParcela": 9,
+    "idContribuinte": 70432295,
+    "idImovel": 25318451,
+    "idEconomico": null,
+    "idReceitaDiversa": null,
+    "idContribuicao": null,
+    "idNotaAvulsa": null,
+    "idObra": null,
+    "idTransferenciaImoveis": null,
+    "idIndexador": 44703,
+    "siglaIndexador": "R$",
+    "tipoIndexador": {
+      "valor": "MOEDA_DO_PAIS",
+      "descricao": "Moeda do País"
+    },
+    "idConfigParcelamento": 823413,
+    "descricaoParcelamento": "Parcelado",
+    "qtdParcelas": 10,
+    "situacao": {
+      "valor": "ABERTO",
+      "descricao": "Em Aberto"
+    },
+    "situacaoResumida": "Aberta",
+    "vlLancado": 2774.9,
+    "vlDesconto": 0.0,
+    "vlBeneficio": 0.0,
+    "vlIndexador": 1.0,
+    "vlBeneficioIndexado": 0,
+    "vlPagoCorrecao": 0,
+    "vlPagoJuro": 0,
+    "vlPagoMulta": 0,
+    "vlPagoTributo": 0,
+    "siglaBancoPagamento": null,
+    "vlDiferencaPagamento": 0,
+    "dtQuitacao": null,
+    "vlTotalParcelaSemAcrescimos": 2774.9,
+    "dtVencimento": "2025-10-10",
+    "unica": {
+      "valor": "NAO",
+      "descricao": "Não"
+    },
+    "porDiferenca": null,
+    "idDebitoOriginal": null,
+    "complementar": {
+      "valor": "NAO",
+      "descricao": "Não"
+    },
+    "sistemaOrigem": {
+      "valor": "TRIBUTOS",
+      "descricao": "Tributos"
+    },
+    "referente": {
+      "identificador": "146",
+      "codigo": "146",
+      "tipoDescricao": "Imóveis",
+      "descricao": "Imóvel 146",
+      "tipo": {
+        "valor": "IMOVEIS",
+        "descricao": "Imóveis"
+      }
+    },
+    "competencia": null,
+    "dhLancamento": "2024-12-12T16:18:01.82",
+    "dtCredito": "2024-12-12",
+    "codigoAutoInfracao": null,
+    "idAutoInfracao": null,
+    "nroDas": null,
+    "nroDaf": null,
+    "dhOperacao": "2025-03-27T17:35:17.05",
+    "cpfCnpj": "28163703000150"
+  },
+  {
+    "id": 3856777693,
+    "idLancamento": 954510393,
+    "ano": 2025,
+    "idCredito": 154403,
+    "descricaoCredito": "IPTU",
+    "abreviaturaCredito": "IPT1",
+    "tipoCadastro": {
+      "valor": "IMOVEIS",
+      "descricao": "Imóveis"
+    },
+    "dhCancelamento": null,
+    "usuarioCancelamento": null,
+    "nroParcela": 10,
+    "idContribuinte": 70432295,
+    "idImovel": 25318451,
+    "idEconomico": null,
+    "idReceitaDiversa": null,
+    "idContribuicao": null,
+    "idNotaAvulsa": null,
+    "idObra": null,
+    "idTransferenciaImoveis": null,
+    "idIndexador": 44703,
+    "siglaIndexador": "R$",
+    "tipoIndexador": {
+      "valor": "MOEDA_DO_PAIS",
+      "descricao": "Moeda do País"
+    },
+    "idConfigParcelamento": 823413,
+    "descricaoParcelamento": "Parcelado",
+    "qtdParcelas": 10,
+    "situacao": {
+      "valor": "ABERTO",
+      "descricao": "Em Aberto"
+    },
+    "situacaoResumida": "Aberta",
+    "vlLancado": 2774.9,
+    "vlDesconto": 0.0,
+    "vlBeneficio": 0.0,
+    "vlIndexador": 1.0,
+    "vlBeneficioIndexado": 0,
+    "vlPagoCorrecao": 0,
+    "vlPagoJuro": 0,
+    "vlPagoMulta": 0,
+    "vlPagoTributo": 0,
+    "siglaBancoPagamento": null,
+    "vlDiferencaPagamento": 0,
+    "dtQuitacao": null,
+    "vlTotalParcelaSemAcrescimos": 2774.9,
+    "dtVencimento": "2025-11-10",
+    "unica": {
+      "valor": "NAO",
+      "descricao": "Não"
+    },
+    "porDiferenca": null,
+    "idDebitoOriginal": null,
+    "complementar": {
+      "valor": "NAO",
+      "descricao": "Não"
+    },
+    "sistemaOrigem": {
+      "valor": "TRIBUTOS",
+      "descricao": "Tributos"
+    },
+    "referente": {
+      "identificador": "146",
+      "codigo": "146",
+      "tipoDescricao": "Imóveis",
+      "descricao": "Imóvel 146",
+      "tipo": {
+        "valor": "IMOVEIS",
+        "descricao": "Imóveis"
+      }
+    },
+    "competencia": null,
+    "dhLancamento": "2024-12-12T16:18:01.82",
+    "dtCredito": "2024-12-12",
+    "codigoAutoInfracao": null,
+    "idAutoInfracao": null,
+    "nroDas": null,
+    "nroDaf": null,
+    "dhOperacao": "2025-03-27T17:35:17.175",
+    "cpfCnpj": "28163703000150"
+  }
+]
