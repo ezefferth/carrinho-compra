@@ -1,5 +1,8 @@
 import React, { useContext, useState } from "react";
-import { CriarProduto } from "../../components/data/fetchProdutos";
+import {
+  CriarProduto,
+  DeletarProduto,
+} from "../../components/data/fetchProdutos";
 import { DataContext } from "../../components/context/data";
 
 export default function CriarProdutoPage() {
@@ -9,9 +12,10 @@ export default function CriarProdutoPage() {
 
   const { aux, setAux } = useContext(DataContext);
 
-  const handleSubmit = async (e: React.FormEvent) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
     await CriarProduto(nome, parseFloat(valor), imagem);
+    // await DeletarProduto(id)
     // setAux(aux + 1);
     // console.log(aux);
     // Aqui você pode fazer um POST para sua API

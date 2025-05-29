@@ -6,6 +6,7 @@ import CriarProdutoPage from "../../pages/criarTeste";
 import Page1 from "../../pages/outlet/page1";
 import Page2 from "../../pages/outlet/page2";
 import Page3 from "../../pages/outlet/page3";
+import EditarProduto from "../../pages/editar";
 
 export default function Routers() {
   return (
@@ -27,6 +28,14 @@ export default function Routers() {
         element={
           <PrivateRoute>
             <CriarProdutoPage />
+          </PrivateRoute>
+        }
+      />
+      <Route
+        path="/produtos/editar"
+        element={
+          <PrivateRoute>
+            <EditarProduto />
           </PrivateRoute>
         }
       />

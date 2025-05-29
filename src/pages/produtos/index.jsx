@@ -5,6 +5,8 @@ import Carrinho from "../carrinho";
 import { FaX } from "react-icons/fa6";
 import { AuthContext } from "../../components/context/auth";
 import { DataContext } from "../../components/context/data";
+import { LerProdutos } from "../../components/data/fetchProdutos";
+import { useNavigate } from "react-router";
 
 export default function Produtos() {
   const [cartItems, setCartItems] = React.useState([]);
@@ -12,6 +14,8 @@ export default function Produtos() {
   const [showCart, setShowCart] = React.useState(false);
 
   const { produtos } = React.useContext(DataContext);
+
+  const navigate = useNavigate();
 
   function addItem(item) {
     setCartItems((prev) => [...prev, item]);
@@ -21,8 +25,8 @@ export default function Produtos() {
     <div className="containerProdutos">
       <div
         className="cartButton"
-        // onClick={() => setShowCart(true)}
-        onClick={teste}
+        onClick={() => setShowCart(true)}
+        // onClick={teste}
       >
         <button>
           <FaShoppingCart size={25} />
@@ -58,7 +62,13 @@ export default function Produtos() {
               />
               <h4>{item.nome}</h4>
               <p>R$ {item.valor.toFixed(2)}</p>
+              <p>{item.id}</p>
               <button onClick={() => addItem(item)}>Comprar</button>
+              <button
+                onClick={() => navigate("/produtos/editar", { state: item })}
+              >
+                Editar
+              </button>
             </div>
           );
         })}
